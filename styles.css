@@ -1,0 +1,23 @@
+html,body {
+    background-color: rgb(110, 57, 57);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    color: red;
+    text-shadow: 2px 2px 3px black;
+}
+
+a:link {
+    color:antiquewhite;
+    text-decoration: none;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    text-shadow: 2px 2px 3px black;
+}
