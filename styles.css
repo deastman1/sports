@@ -1,11 +1,12 @@
 html,body {
     background-color: rgb(110, 57, 57);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
 }
 
 h1 {
-    font-size: 40px;
-    color: red;
+    font-size: 45px;
+    color: rgb(107, 29, 29);
     text-shadow: 2px 2px 3px black;
 }
 
